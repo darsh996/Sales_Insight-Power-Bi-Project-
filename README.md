@@ -11,3 +11,6 @@ Task        :
 2. Perform ETL.
 3. Maintain clean Data Pipeline.
 4. Make Insgihts from dashboard.
+
+
+![Sales Insight](https://user-images.githubusercontent.com/97582053/183929183-0c4a24ce-69fa-41b5-9ac1-727a3676a0a8.PNG)
